@@ -1,0 +1,7 @@
+venv-10academy/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.vscode/
+data/
